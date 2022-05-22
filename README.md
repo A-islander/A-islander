@@ -1,5 +1,6 @@
 ### 你好，岛民 (*ﾟ∇ﾟ)
-
+### 邮箱
+[aislander0@outlook.com](aislander0@outlook.com)
 <!--
 **A-islander/A-islander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
