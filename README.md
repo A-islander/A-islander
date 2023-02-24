@@ -1,4 +1,10 @@
 ### 你好，岛民 (*ﾟ∇ﾟ)
+### 欢迎来到岛民岛
+[岛民岛](islander.top)
+
+这里是曾经A岛沉没后岛民重新建立起的一个新岛屿。
+
+如下是秉承着平等与自治的概念，建立的一套设施，详情可见[readme](https://github.com/A-islander/readme)
 ### 邮箱
 [aislander0@outlook.com](aislander0@outlook.com)
 <!--
